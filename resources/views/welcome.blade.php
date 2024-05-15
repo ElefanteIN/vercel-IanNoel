@@ -43,7 +43,7 @@
 
   <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
     
-    <img src="/w3images/avatar3.png" style="width:100%">
+    
     <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
       <i class="fa fa-home w3-xxlarge"></i>
       <p>HOME</p>
@@ -73,7 +73,7 @@
     <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
       <h1 class="w3-jumbo"><span class="w3-hide-small">I'm</span> Ian Noel Elefante.</h1>
       <p>3rd Year Bachelor of Science and Information Technology Student.</p>
-      <img src="/w3images/avatar3.png" alt="boy" class="w3-image" width="992" height="1108">
+     
     </header>
 
     <div class="w3-content w3-justify w3-text-grey w3-padding-64" id="about">
